@@ -13,4 +13,5 @@ This Tableau dashboard visualizes public transport ridership trends in Singapore
 - `sg_public_transport_dashboard.twbx`: Full Tableau dashboard
 
 ## 🖼️ Screenshot
-![Dashboard Preview](Dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/c3a46856-2a08-42cc-bb5e-a5ff0be2a4b9)
+
